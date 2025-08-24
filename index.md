@@ -25,6 +25,3 @@
 
 ## :e-mail: Contact information
 - [jane.renjing@gmail.com](mailto:jane.renjing@gmail.com)
-
-## Contact information
-- [jane_renjing@163.com](mailto:jane_renjing@163.com)
