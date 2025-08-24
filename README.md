@@ -1,4 +1,5 @@
 ## :office: Current position 
+- FactSet
 
 ## :woman_teacher: Work experiences
 - FactSet
