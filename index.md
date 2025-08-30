@@ -16,8 +16,6 @@
 - Master of Science in Quantitative Finance, National University of Singapore, Aug 2010-Aug 2011
 - Bachelor of Economics, Bachelor of Science (Mathematics), Mathematial Economics and Finance (double major), Sep 2005-Jun 2009
 
-## Project experiences
-
 ## Language and skills
 - Familiar with Python and SQL
 - Basic with C++
