@@ -4,10 +4,10 @@
 ## :woman_teacher: Work experiences
 - FactSet
   - Quantitative Researcher
-    - Fixed-income products
+    - Risk modelling of fixed-income structured products
 - Conning
   - Quantitative Analyst Intern
-    - Various asset classes
+    - Derivative pricing of treasury, equity and inflation-linked bond
 - Uni Konstanz
   - Research Assistant
     - Monetary economics
